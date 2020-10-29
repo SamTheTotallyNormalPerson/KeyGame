@@ -167,7 +167,7 @@ MonoBehaviour:
   pickupEffect: {fileID: 4861105301956225179, guid: 748c08d7d724d8849b167b5481d58918,
     type: 3}
   target: {fileID: 0}
-  speed: 20
+  speed: 50
 --- !u!65 &4479410679595280913
 BoxCollider:
   m_ObjectHideFlags: 0
